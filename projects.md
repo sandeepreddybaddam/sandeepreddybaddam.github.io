@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-### Some projects I worked on:
 1. Inverse Reinforcement Learning for Off-road Autonomy (research)
    - DARPA-funded RACER Program
 2. [Pong AI Player](https://sandeepreddybaddam.github.io/pingpong/)
@@ -20,4 +19,5 @@ permalink: /projects/
 9. SAE BAJA Off-road Vehicle (25-member cross-functional team)
    - Worked for three years as Captain, Designer, and Driver
 
+**You can go through embedded links for implementation videos.**
 *`*`indicates implementation only i.e., modifying pre-existing techniques according to the use case.*
