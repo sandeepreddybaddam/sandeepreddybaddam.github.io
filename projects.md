@@ -15,7 +15,7 @@ permalink: /projects/
 5. CUDA-based Depth Estimation using StereoVision
 6. Semantic Segmentation for Self-driving Cars*
 7. Hand-gesture Controlled Mobile Robot*
-   - [Implementation](https://drive.google.com/drive/u/0/folders/1BXXkhKEXhxJ51b-xjR9_75baAF6fpTT-)
+   - [Implementation](https://drive.google.com/file/d/1bg0eVXWZjDUaSnNuDZizHbHNYof2KrZE/view?usp=share_link)
 8. Intelligent Water Management System using Machine Learning (Senior Thesis)
 9. SAE BAJA Off-road Vehicle (25-member cross-functional team)
    - Worked for three years as Captain, Designer, and Driver
