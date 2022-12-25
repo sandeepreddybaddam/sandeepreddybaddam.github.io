@@ -20,4 +20,5 @@ permalink: /projects/
    - Worked for three years as Captain, Designer, and Driver
 
 **You can go through embedded links for implementation videos.**
+
 *`*`indicates implementation only i.e., modifying pre-existing techniques according to the use case.*
