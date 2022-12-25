@@ -9,7 +9,7 @@ name: Sandeep Reddy Baddam
 description: MS Student at the University of Washington, Seattle
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/blob/master/SandeepReddy_LinkedIn.jpeg
+# avatar:
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email: sbaddam@uw.edu
   facebook:
   flickr:
-  github: https://github.com/sandeepreddybaddam
+  github: sandeepreddybaddam
   instagram:
-  linkedin: https://www.linkedin.com/in/sandeep-reddy-baddam
+  linkedin: sandeep-reddy-baddam
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
