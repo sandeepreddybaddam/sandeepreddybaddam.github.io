@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student at the University of Washington specializing in Robotics and AI. My research work is focussed on planning and control in building production level quality algorithms. I believe my approach in providing efficient solutions at the right time defines me the most over my academic excellence and merit scholarships.
 
-### More Information
+With the skills and experience I have obtained so far, I like to apply them to deal critical problems in projects through creativity. I can confidently say that I am organized and flexible to work independently as well as in a team.
 
-A place to include any other types of information that you'd like to include about yourself.
+If you are seeking a collaborative and creative problem-solver who communicates effectively, I look forward to an opportunity to speak with you. You are invited to explore my work below.
+
+### Resume
+[Uploading]()
+
+### Projects
+[Here](https://sandeepreddybaddam.github.io/projects/)
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[sbaddam@uw.edu](mailto:sbaddam@uw.edu)
