@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="display:inline;">
+<div style="display:inline; padding-left:20px;">
 <img width=200 height=200 align="right" src="https://user-images.githubusercontent.com/100727983/209484812-b6a54ee3-8cb7-4b60-91b1-cea6a8ecf6b8.jpg">
 </div>
 
@@ -17,5 +17,4 @@ You are invited to explore his work below.
 ### Projects
 [Here](https://sandeepreddybaddam.github.io/projects/)
 
-### Contact
-[sbaddam@uw.edu](mailto:sbaddam@uw.edu)
+You can contact me at `sbaddam [at] uw [dot] edu`
