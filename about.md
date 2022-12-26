@@ -9,9 +9,9 @@ permalink: /about/
 </div>
 
 
-I am a graduate student at the University of Washington specializing in Robotics and AI. My research work is focussed on planning and control in building production level quality algorithms for autonomous vehicles. I believe my approach in providing efficient solutions at the right time defines me the most over my academic excellence and merit scholarships. With the skills and experience I have obtained so far, I like to apply them to deal critical problems in projects through creativity. I can confidently say that I am organized and flexible to work independently as well as in a team.
+Sandeep Reddy is a master's student at the University of Washington specializing in Robotics and AI. His research work is focussed on planning and control in building production level quality algorithms for autonomous vehicles. After doing research in multi-robot formation and autonomous navigation at UW-ME, He joined UW-DARPA RACER program in summer 2022 and is currently working on local planning and controls. He completed his undergrad at NIT Warangal, India in 2020 where he led 25-member cross-functional (software, design, suspension, steering, brakes) SAE BAJA off-road racing team. Then, he worked for seven months on algorithm-based design optimization at Bajaj Auto Ltd., an automobile company in India. With the skills and experience he obtained so far, he would like to apply them to deal critical problems in projects through creativity.
 
-If you are seeking a collaborative and creative problem-solver who communicates effectively, I look forward to an opportunity to speak with you. You are invited to explore my work below.
+If you are seeking a collaborative and creative problem-solver who communicates effectively, Sandeep looks forward to an opportunity to speak with you. You are invited to explore his work below.
 
 [Resume](https://drive.google.com/file/d/1PgmMb10Pk7ew2wkXVtUXvtgyRYXENdLX/view?usp=share_link)
 
