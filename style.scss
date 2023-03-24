@@ -113,9 +113,9 @@ img {
 }
 
 .skill-row-img {
-  width: 400;
-  height: 400;
-  border-radius: 200; /* <-- 50% works here too, because the image is already square so you get a circle rather than an oval*/
+  width: 400px;
+  height: 400px;
+  border-radius: 200px; /* <-- 50% works here too, because the image is already square so you get a circle rather than an oval*/
 }
 
 // Fixes images in popup boxes from Google Translate
