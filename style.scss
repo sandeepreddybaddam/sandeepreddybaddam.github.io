@@ -113,19 +113,12 @@ img {
 }
 
 .skill-row-img {
-  float: none;
   width: 300px;
   height: 300px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
   img {
     border-radius: 150px;
-    display:inline;
+    display:inline-block;
   }
 }
 
