@@ -5,8 +5,8 @@ permalink: /about/
 ---
 <br />
 <!-- <div style="display:inline;"> -->
-<p align="center">
-<img class=" skill-row-img" src="https://user-images.githubusercontent.com/100727983/209484812-b6a54ee3-8cb7-4b60-91b1-cea6a8ecf6b8.jpg" align="center" >
+<p align="center" class="skill-row-img">
+<img src="https://user-images.githubusercontent.com/100727983/209484812-b6a54ee3-8cb7-4b60-91b1-cea6a8ecf6b8.jpg" align="center" >
 </p>
 <!-- </div> -->
 <br />
