@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- <div class="circle"> -->
 <p align="left">
-<img align="left" src="https://user-images.githubusercontent.com/100727983/209484812-b6a54ee3-8cb7-4b60-91b1-cea6a8ecf6b8.jpg">
+<img width=200 height=200 align="left" src="https://user-images.githubusercontent.com/100727983/209484812-b6a54ee3-8cb7-4b60-91b1-cea6a8ecf6b8.jpg">
 </p>
 <!-- </div> -->
 
