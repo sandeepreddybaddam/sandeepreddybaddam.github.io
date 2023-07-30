@@ -14,7 +14,7 @@ Sandeep Reddy is a master's student at the University of Washington specializing
 
 You are invited to explore his work below.
 
-[Resume](https://drive.google.com/file/d/1PgmMb10Pk7ew2wkXVtUXvtgyRYXENdLX/view?usp=share_link)
+[Resume](https://drive.google.com/file/d/1WPzLWmsU3AhBurwbcbH4A6Mc-qzSu_tZ/view?usp=sharing)
 
 ### Projects
 [Here](https://sandeepreddybaddam.github.io/projects/)
