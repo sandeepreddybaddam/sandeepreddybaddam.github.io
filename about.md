@@ -10,7 +10,13 @@ permalink: /about/
 </p>
 <!-- </div> -->
 
-Sandeep Reddy is a master's student at the University of Washington specializing in Robotics and AI. His research work is focussed on planning and control in building production level quality algorithms for autonomous vehicles. After doing research in multi-robot formation and autonomous navigation at UW-ME, he joined UW-DARPA RACER program in summer 2022 and is currently working on local planning and controls. He completed his undergrad at NIT Warangal, India in 2020 where he led 25-member cross-functional (software, design, suspension, steering, brakes) SAE BAJA off-road racing team. Then, he worked for seven months on algorithm-based design optimization at Bajaj Auto Ltd., an automobile company in India. With the skills and experience he obtained so far, he would like to apply them to deal critical problems in projects through creativity.
+Sandeep Reddy is currently a Robotics AI Intern at Bosch Center for AI, formulating optimal control strategies under sensor uncertainties for Lunar Rover. His research at the University of Washington and beyond is dedicated to robot motion planning and controls, policy learning, and planning under uncertainty, aimed towards robot autonomy.
+
+During his tenure at UW Robot Learning Lab as a Research Assistant, Sandeep was part of prestigious DARPA RACER program on building high-speed off-road level 4 autonomous vehicles. Since the summer of 2022, he has passionately contributed to the domain of local planning and controls. 
+
+Sandeep's journey isn't solely defined by academia; he brings with him a diverse background. His undergraduate years at NIT Warangal, India, culminated in his leadership of a multifaceted SAE BAJA off-road racing team, comprising 25 individuals spanning software, design, suspension, steering, and brakes domains.
+
+Before joining UW, Sandeep lent his expertise to Bajaj Auto Ltd., an eminent automobile company in India. Over a period of seven months, he immersed himself in algorithm-based design optimization, fostering innovation. With the skills and experience he obtained so far, he would like to apply them to deal critical problems in projects through creativity.
 
 You are invited to explore his work below.
 
