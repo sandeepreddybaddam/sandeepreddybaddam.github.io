@@ -28,16 +28,28 @@ You can contact me at **`sbaddam [at] uw [dot] edu`**
 ### Work Experience
 
 **Robotics AI Intern** | **NASA PFP - Bosch Research**, *Pittsburgh, PA*  *(Mar. 2023 - Present)*
+<p align="right">
+<img width=180 height=130 align="right" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/92dbc2c2-31a6-432d-b2bf-10cd65b0fadb">
+</p>
+
 - Performed experiments on Wi-Fi based sensor modality for lunar CubeRover state estimation in smart docking with the lander
 - Developed optimal control strategies under sensor uncertainties for effective rover positioning and achieved over 98% success rate
 - Incorporated external uncertainty learning with expert demos making EKF quickly adapt to extraterrestrial environments
 
 **Research Assistant** | **Robot Learning Lab, Paul G. Allen School of CSE, UW** *(Sep. 2022 - Mar. 2023)*
+<p align="right">
+<img width=250 height=100 align="right" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/282a35a3-4f21-4df4-b1a9-2b8e7f7df42a">
+</p>
+
 - Carrying out Inverse Reinforcement Learning to autotune the planner cost function parameters that can save  3-5 manual hours
 - Implemented parallel version for cross-track error in MPC-based local planning that is 115X faster than serial computation
 - Developed motion planning debugging tools to understand the planner decisions quantitatively using expert demonstrations
 
 **Software and Field Test Engineering Intern** | **DARPA RACER Program, University of Washington** *(Jun. 2022 – Sep. 2022)*
+<p align="right">
+<img width=140 height=70 align="right" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/6c808384-001b-48a3-a58d-a5ac4be11dd1">
+</p>
+
 - Worked on motion planning and control for Level 4 autonomous high-speed off-road vehicle
 - Contributing algorithms to safely handle vehicle attitude (roll, pitch) in a model predictive local planner and autonomy status
 - Executed a logic to speedup manual takeover by approximately 0.5 sec
