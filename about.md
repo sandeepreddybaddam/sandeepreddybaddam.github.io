@@ -27,7 +27,7 @@ You can contact me at **`sbaddam [at] uw [dot] edu`**
 
 ### Work Experience
 <p align="left">
-<img width=1080 height=140 align="left" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/50a2a9ac-4300-40b3-830e-afa06664a4c6">
+<img width=1080 height=160 align="left" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/50a2a9ac-4300-40b3-830e-afa06664a4c6">
 </p>
 <br/>
 
