@@ -21,7 +21,7 @@ You are invited to explore his work below.
 ### Projects
 [Here](https://sandeepreddybaddam.github.io/projects/)
 
-You can contact me at **`sbaddam [at] uw [dot] edu`**
+You can contact me at **`sbaddam@uw.edu`** | [LinkedIn](https://www.linkedin.com/in/sbaddam)
 
 ---
 
