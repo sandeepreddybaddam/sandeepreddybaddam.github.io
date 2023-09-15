@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+---
+*You can go through embedded links for implementation videos.*
+
 1. Inverse Reinforcement Learning for Off-road Autonomy (research)
    - DARPA-funded RACER Program on building high-speed [level 4 autonomous vehicles](https://www.youtube.com/watch?v=AlNOzhza7pg)
 2. [Pong AI Player](https://sandeepreddybaddam.github.io/pingpong/)
@@ -22,7 +25,5 @@ permalink: /projects/
 8. Intelligent Water Management System using Machine Learning ([Senior Thesis](https://drive.google.com/file/d/1Nx8Zc6zAS1Q9BSJfsaOQcPFIxh1RklWc/view?usp=sharing))
 9. [SAE BAJA Off-road Vehicle](https://www.youtube.com/watch?v=sLZzWODQK2A) (25-member cross-functional team)
    - Worked for three years as Captain, Designer, and Driver
-
-**You can go through embedded links for implementation videos.**
 
 *`*`indicates implementation only i.e., modifying pre-existing techniques according to the use case.*
