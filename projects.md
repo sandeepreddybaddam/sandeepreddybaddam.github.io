@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ---
-*You can go through embedded links for implementation videos.*
+**You can go through embedded links for implementation videos.**
 
 1. Inverse Reinforcement Learning for Off-road Autonomy (research)
    - DARPA-funded RACER Program on building high-speed [level 4 autonomous vehicles](https://www.youtube.com/watch?v=AlNOzhza7pg)
