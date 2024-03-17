@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sandeep Reddy Baddam
 permalink: /about/
 ---
 
