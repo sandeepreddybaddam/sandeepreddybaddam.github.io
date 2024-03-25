@@ -5,6 +5,8 @@ title: Rule Hierarchies
 ---
 [Not complete yet]
 
+**Paper summary:** [Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles - 13 Dec 2023](https://arxiv.org/pdf/2212.03323.pdf)
+
 ## Why?
 Rule hierarchies can enhance **interpretability**, but introduce combinatorial complexity to planning; on the other hand, differentiable reward structures can be leveraged by modern gradient-based optimization tools, but are less interpretable and unintuitive to tune.
 
@@ -53,7 +55,7 @@ Assume that this scene is provided to the planner.
   ![image](https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/6ab1e5ac-cfa9-4536-ba46-7bb2dcb0bff1)
 [Source](https://youtu.be/hrjt6abUPDA)
 
-    * Rules → Signal Temporal Logic (STL) formulae using STLCG (STL Computational Graphs), which comes equipped with back propagatable robustness metrics
+    * Rules → expressed as Signal Temporal Logic (STL) formulae using STLCG (STL Computational Graphs), which comes equipped with back propagatable robustness metrics
         - Expressing rules as STL formulae allow us to easily encode complex spatiotemporal specifications, such as maintaining a speed limit of `40mph` from `t+a` to `t+b`
     3. **Rule hierarchy** ($\varphi$) - sequence of rules in precedence <br>
 ![image](https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/b3c1d8cf-e59a-4087-9c11-4fdede04a435)
