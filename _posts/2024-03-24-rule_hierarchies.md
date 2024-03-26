@@ -105,7 +105,36 @@ A two-stage algorithm to solve (3).
 ![image](https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/ff8b5516-4705-46e4-b1ea-fbbc0caee692)
 
 ## Signal Temporal Logic
-TODO
+[Source](https://youtu.be/hrjt6abUPDA) - Autonomous Systems Laboratory<br>
+It is a formal language that converts specifications made in natural language to mathematical representation, that can be used in synthesis. <br>
+![image](https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/bce8b773-bcd2-441c-8a28-bd2ecee0d55d)
+
+| Term | Explanation |
+|---|---|
+| Logic | Made up of logical operations. For example AND, OR, NOT, etc. |
+| Temporal | These logical operations can be specified over time intervals |
+| Signal | We are reasoning about these logic and temporal operations over continuous real-valued time series such as a trajectory of the robot as it moves in time and space |
+
+<img width=400 align="center" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/54ebc0ae-986d-4c35-aad2-e620751792d5">
+
+### Boolean semantics
+<img width=800 align="center" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/bd93d138-724b-47da-a242-ba3fd3beb8e4">
+
+### Robustness
+A measure of how much a signal satisfies or violates an STL formula
+
+### Quantitative semantics
+<img width=800 align="center" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/55de216f-5f49-4147-ac4d-8f42627b5bd9">
+
+### STLCG
+Signal Temporal Logic Computational Graphs - It is a toolbox to compute robustness and their gradients using STL formulae.
+Repository [here](https://github.com/StanfordASL/stlcg).
+
+
+
+
+
+
 
 
 
