@@ -120,6 +120,12 @@ It is a formal language that converts specifications made in natural language to
 ### Boolean semantics
 <img width=800 align="center" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/bd93d138-724b-47da-a242-ba3fd3beb8e4">
 
+
+**How to read?** Signal at time `t` _satisfies_ the predicate $\mu$ _if and only if_ predicate of state `x` at a time `t` is less than constant `c`.
+
+**Example:** Maintain speed of `0.5 m/s` between `t+a` and `t+b` <br>
+<img width=400 align="center" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/b757d8c8-cd56-4406-b1a0-0ae3d232b3af">
+
 ### Robustness
 A measure of how much a signal satisfies or violates an STL formula
 
