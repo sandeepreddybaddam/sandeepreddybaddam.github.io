@@ -13,10 +13,10 @@ I graduated from the **University of Washington (UW), Seattle** where I was part
 
 Before joining UW, my undergraduate years at **NIT Warangal**, India, culminated in my leadership of a multifaceted [SAE BAJA off-road racing team](https://www.youtube.com/watch?v=sLZzWODQK2A), comprising 25 individuals spanning software, simulation, and hardware domains. I invite you to explore my work below.
 
-#### Resume - [Here](https://drive.google.com/file/d/1ChWVWNzjM_d5DMquR7m-TofB2j3w3ocf/view?usp=sharing)
+#### Resume - [Here](https://drive.google.com/file/d/1J7MIQVEfz-uNSUgbLDJ8pG90jx-nBq9i/view?usp=drive_link)
 #### Projects - [Here](https://sandeepreddybaddam.github.io/projects/)
 
-You can contact me at **`sbaddam@uw.edu`** or [LinkedIn](https://www.linkedin.com/in/sbaddam)
+You can contact me at **`sandeep240599@gmail.com`** or [LinkedIn](https://www.linkedin.com/in/sbaddam)
 
 ---
 
