@@ -22,7 +22,7 @@ You can contact me at **`sandeep240599@gmail.com`** or [LinkedIn](https://www.li
 
 ### Work Experience
 <p align="left">
-<img width=900 height=134 align="left" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/50a2a9ac-4300-40b3-830e-afa06664a4c6">
+<img width=900 height=120 align="left" src="https://github.com/sandeepreddybaddam/sandeepreddybaddam.github.io/assets/100727983/141846af-383d-4af7-8e4c-fe1b8c7e8371">
 </p>
 <br/>
 
