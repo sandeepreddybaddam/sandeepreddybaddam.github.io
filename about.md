@@ -47,7 +47,7 @@ You can contact me at **`sandeep240599[at]gmail[dot]com`** or [LinkedIn](https:/
 - Designed and validated a technique to find the precise cabin volume of any closed automobile with an accuracy of 98%
 - Wrote an optimization algorithm to find the best HVAC design parameters and validated them on different cars resulting in 95% accuracy
 
-**Captain, Designer, Driver– SAE BAJA off-road racing team** | **[NIT Warangal](https://www.nitw.ac.in/)** *(Apr. 2017 - Feb. 2020)*
+**Captain, Designer – SAE BAJA off-road racing team** | **[NIT Warangal](https://www.nitw.ac.in/)** *(Apr. 2017 - Feb. 2020)*
 - Led a 25-member cross-functional off-road vehicle team including software, simulation, suspension, steering, and brakes
 - Developed graphical sim using IoT and Matlab’s ThingSpeak to obtain the running status of the vehicle with < 2 sec delay
 - Improved chassis design using grid-independent technique and achieved overall weight under 150kg maintaining min. fos of 1.8
