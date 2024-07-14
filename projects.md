@@ -13,7 +13,6 @@ permalink: /projects/
 <p align="center">
 <img height=400 src="https://github.com/user-attachments/assets/4b792bc8-a793-487b-ba37-fec22466a35a">
 </p>
-<br/>
 
 2. [Pong AI Player](https://sandeepreddybaddam.github.io/pingpong/)
 3. [Tetris AI Player](https://github.com/sandeepreddybaddam/tetris_ncem_ai_player)
