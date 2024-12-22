@@ -9,7 +9,7 @@ permalink: /about/
 </p>
 <!-- </div> -->
 
-Hello! I am Sandeep Reddy, a software intern in the planning and controls team at [Kodiak Robotics Inc.](https://kodiak.ai/), a driverless technology company.
+Hello! I am Sandeep Reddy, a software engineer in the planning and controls team at [Kodiak Robotics Inc.](https://kodiak.ai/), a driverless technology company.
 
 I graduated from the **University of Washington (UW), Seattle** where I was part of the [Robot Learning Lab](https://robotlearning.cs.washington.edu/), directed by Professor [Byron Boots](https://homes.cs.washington.edu/~bboots/). As a Research Assistant, I've had the pleasure of working on the [DARPA RACER](https://www.darpa.mil/news-events/2022-09-16) program, conducting research on robot motion planning and controls for high-speed off-road [level 4 autonomous vehicles](https://www.youtube.com/watch?v=AlNOzhza7pg). After graduation, I joined the Bosch Center for Artificial Intelligence, working on the precise navigation problem for [Lunar Rover](https://www.youtube.com/watch?v=gUVb9g7R9Xk) autonomous docking, which is prepared for a series of flight missions, in collaboration with NASA. Post internship, I joined as a visiting researcher at the Carnegie Mellon University Robotics Institute, working with Professor [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/) on safe human-robot interaction for autonomous driving. Broadly, my interests include planning algorithms, robot policy learning, safe human-robot interaction, and planning under uncertainty.
 
